@@ -46,6 +46,7 @@ Execute the main Python script:
 
 ```bash
 python main.py
+```
 
 ### 🎮 How to Play
 
